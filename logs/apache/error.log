@@ -1,0 +1,4 @@
+[Sat Oct 19 01:07:08.236897 2019] [mpm_event:notice] [pid 1155:tid 140351018923904] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Oct 19 01:07:08.236986 2019] [core:notice] [pid 1155:tid 140351018923904] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Oct 19 02:46:48.567188 2019] [mpm_event:notice] [pid 202:tid 139910608922496] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Oct 19 02:46:48.567284 2019] [core:notice] [pid 202:tid 139910608922496] AH00094: Command line: '/usr/sbin/apache2'

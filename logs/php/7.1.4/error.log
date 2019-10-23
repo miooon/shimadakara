@@ -1,0 +1,115 @@
+[19-Oct-2019 01:07:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 257
+[19-Oct-2019 01:07:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 257
+[19-Oct-2019 04:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_posted_on() in /app/public/wp-content/themes/shimadakara/template-parts/content.php:25
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(62): get_template_part('template-parts/...', 'post')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content.php on line 25
+[19-Oct-2019 04:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_posted_on() in /app/public/wp-content/themes/shimadakara/template-parts/content.php:25
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(62): get_template_part('template-parts/...', 'post')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content.php on line 25
+[19-Oct-2019 05:04:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_posted_on() in /app/public/wp-content/themes/shimadakara/template-parts/content.php:25
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(62): get_template_part('template-parts/...', 'post')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content.php on line 25
+[19-Oct-2019 05:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php:17
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/page.php(25): get_template_part('template-parts/...', 'page')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php on line 17
+[19-Oct-2019 05:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content.php:32
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/archive.php(35): get_template_part('template-parts/...', 'event')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content.php on line 32
+[19-Oct-2019 05:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php:17
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(52): get_template_part('template-parts/...', 'page')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php on line 17
+[19-Oct-2019 05:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php:17
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(52): get_template_part('template-parts/...', 'page')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php on line 17
+[19-Oct-2019 05:11:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content.php:32
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/archive.php(35): get_template_part('template-parts/...', 'event')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content.php on line 32
+[19-Oct-2019 05:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shimadakara_post_thumbnail() in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php:17
+Stack trace:
+#0 /app/public/wp-includes/template.php(724): require()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/shimadakara/index.php(52): get_template_part('template-parts/...', 'page')
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/shimadakara/template-parts/content-page.php on line 17
+[19-Oct-2019 05:17:38 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /app/public/wp-content/themes/shimadakara/functions.php on line 66
+[19-Oct-2019 05:18:01 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /app/public/wp-content/themes/shimadakara/functions.php on line 66
+[19-Oct-2019 06:06:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /app/public/wp-content/themes/shimadakara/index.php on line 130
+[19-Oct-2019 06:38:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/shimadakara/index.php on line 58
+[19-Oct-2019 06:45:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/wp-content/themes/shimadakara/index.php on line 54
+[19-Oct-2019 06:46:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/wp-content/themes/shimadakara/index.php on line 54
+[19-Oct-2019 06:46:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/wp-content/themes/shimadakara/index.php on line 54
+[19-Oct-2019 08:11:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/shimadakara/index.php on line 150
+[19-Oct-2019 08:11:39 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /app/public/wp-content/themes/shimadakara/index.php on line 88
+[19-Oct-2019 08:13:18 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /app/public/wp-content/themes/shimadakara/index.php on line 88
+[19-Oct-2019 08:13:20 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /app/public/wp-content/themes/shimadakara/index.php on line 88
+[19-Oct-2019 08:14:57 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /app/public/wp-content/themes/shimadakara/index.php on line 105
+[19-Oct-2019 08:15:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/shimadakara/index.php on line 139
+[19-Oct-2019 08:15:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/shimadakara/index.php on line 71
