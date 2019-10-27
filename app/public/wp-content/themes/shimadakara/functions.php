@@ -40,9 +40,10 @@ if ( ! function_exists( 'shimadakara_setup' ) ) :
 		 *
 		 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
 		 */
-		add_theme_support('post-thumbnails');
-		add_image_size('thumb_event',150,110,true);
-		add_image_size('thumb_artist',100,110,true);
+		add_theme_support('post-thumbnails'); /* size x2*/
+		add_image_size('thumb_event',600,440,true);
+		add_image_size('thumb_artist',190,210,true);
+		add_image_size('thumb_artist_dtls',300,390,true);
 
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus( array(
